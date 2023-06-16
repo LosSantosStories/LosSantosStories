@@ -1,9 +1,8 @@
-<h1 align="center">HellO! My name is Rota</h1>
+<h1 align="center">Welcome to our profile</h1>
 <h3 align="center">We are a little roleplay community who start making public script</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lossantosstories&label=Profile%20views&color=0e75b6&style=flat" alt="lossantosstories" /> </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
